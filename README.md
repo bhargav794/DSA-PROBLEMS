@@ -7,4 +7,5 @@ These are the problems I'm solving everyday
 
 
 <h2>PROBLEMS</h2>
-[Non repeating element](https://github.com/bhargav794/GFG-PROBLEMS/blob/main/Arrays/Non%20repeating%20element.java)
+<a href = https://github.com/bhargav794/GFG-PROBLEMS/blob/main/Arrays/Non%20repeating%20element.java >Non Repeating Element</a>
+<a href = https://github.com/bhargav794/GFG-PROBLEMS/blob/main/Arrays/Subset%20of%20another%20array.java> Subst to another array</a>
