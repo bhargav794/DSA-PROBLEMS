@@ -1,5 +1,5 @@
-# GFG-PROBLEMS
-These are the problems I'm solving everyday
+# DSA-PROBLEMS
+These are the problems I'm solving regularly
 
 ## Time complexities of sorting algorithms
 
